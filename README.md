@@ -1,7 +1,4 @@
-# PokeRealm <img src="" alt="PokeRealm Logo" width="50">
-![Uploading ic_launcher-playstore.png…]()![Uploading ic_launcher-playstore.png…]()
-
-
+# PokeRealm <img src="android/app/src/main/ic_launcher-playstore.png" alt="PokeRealm Logo" width="50">
 
 ## 🌟 Overview
 
@@ -24,16 +21,23 @@ To use the AR features, make sure your device supports **ARCore** <img src="http
 ## 📸 App Screenshots
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-        <img src="path/to/screenshot1.png" alt="Screenshot 1" style="width: 16%;">
-        <img src="path/to/screenshot2.png" alt="Screenshot 2" style="width: 16%;">
-        <img src="path/to/screenshot3.png" alt="Screenshot 3" style="width: 16%;">
-        <img src="path/to/screenshot4.png" alt="Screenshot 4" style="width: 16%;">
-        <img src="path/to/screenshot5.png" alt="Screenshot 5" style="width: 16%;">
-        <img src="path/to/screenshot6.png" alt="Screenshot 6" style="width: 16%;">
+        <img src="Screenshots/Screenshot_20240618_133958.png" alt="Screenshot 1" style="width: 19%;">
+        <img src="Screenshots/Screenshot_20240618_134110.png" alt="Screenshot 2" style="width: 19%;">
+        <img src="Screenshots/Screenshot_20240618_134126.png" alt="Screenshot 3" style="width: 19%;">
+        <img src="Screenshots/Screenshot_20240618_134149.png" alt="Screenshot 4" style="width: 19%;">
+        <img src="Screenshots/Screenshot_20240618_134214.png" alt="Screenshot 5" style="width: 19%;">
+</div>
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+        <img src="Screenshots/Screenshot_20240618_134318.png" alt="Screenshot 1" style="width: 19%;">
+        <img src="Screenshots/Screenshot_20240618_135645.png" alt="Screenshot 2" style="width: 19%;">
+        <img src="Screenshots/Screenshot_20240618_135706.png" alt="Screenshot 3" style="width: 19%;">
+        <img src="Screenshots/WhatsApp Image 2024-06-18 at 11.20.50.jpeg" style="width: 19%;">
+        <img src="Screenshots/WhatsApp Image 2024-06-18 at 11.20.50 (1).jpeg" alt="Screenshot 5" style="width: 19%;">
 </div>
 
 ## 📥 Installation
 
 To use PokeRealm on your Android device, download the latest APK from the link below:
 
-[![Download APK](https://img.shields.io/badge/Download%20APK-PokeRealm-brightgreen)](path/to/your/apk)
+[![Download APK](https://img.shields.io/badge/Download%20APK-PokeRealm-brightgreen)](https://drive.google.com/file/d/1Ug5xJeZ0YmKBV4HXkEM4Al6rJc1ZXxt2/view?usp=drive_link)
+
