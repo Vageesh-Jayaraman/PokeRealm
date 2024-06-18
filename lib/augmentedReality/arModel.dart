@@ -20,7 +20,7 @@ class _DisplayARState extends State<DisplayAR> {
       ),
       body: ModelViewer(
         src: 'assets/models/${widget.pokemon}.glb',
-        alt: 'A 3D model of an astronaut',
+        alt: '3D model of ${widget.pokemon}',
         ar: true,
         autoRotate: true,
         disableZoom: true,
