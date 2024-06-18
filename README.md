@@ -39,5 +39,5 @@ To use the AR features, make sure your device supports **ARCore** <img src="http
 
 To use PokeRealm on your Android device, download the latest APK from the link below:
 
-[![Download APK](https://img.shields.io/badge/Download%20APK-PokeRealm-brightgreen)](https://drive.google.com/file/d/1OVMDxuiZzI-Rg5kXwXlaFOgjOSDZF-fo/view?usp=sharing)
+[![Download APK](https://img.shields.io/badge/Download%20APK-PokeRealm-brightgreen)](https://drive.google.com/file/d/1Fdc1ht6YYmJ4Xz0XICowPwIzpqrxiYiU/view?usp=sharing)
 
